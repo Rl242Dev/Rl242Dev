@@ -3,7 +3,7 @@
 ## I'm a Student in everything
 
 - 🔭 I just released my Website [website] which is available in French and English
-- 🌱 I’m currently learning Front-End (HTMl, CSS, Javascript)
+- 🌱 I’m currently learning Front-End (HTML, CSS, Javascript)
 - 🥅 Goals : Learn more about everything
 - 📣 I speak 2 Languages ( + Learning Spanish ) [🇫🇷] French and [🇺🇸] English
 
