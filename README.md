@@ -1,6 +1,6 @@
 ### Hello There, I'm Robin aka Rl242Dev [website] 👋 
 
-## I'm a Student in everything
+## I'm a Student
 
 - 🔭 I just released my Website [website] which is available in French and English
 - 🌱 I’m currently learning Front-End (HTML, CSS, Javascript)
