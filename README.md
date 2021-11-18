@@ -1,8 +1,8 @@
-### Hello There, I'm Robin aka Rl242Dev [website] 👋 
+### Hello There, I'm Robin aka Rl242Dev 👋 
 
 ## I'm a Student
 
-- 🔭 I just released my Website [website] which is available in French and English
+- 🔭 I just released my [website] which is available in French and English
 - 🌱 I’m currently learning Front-End (HTML, CSS, Javascript)
 - 🥅 Goals : Learn more about everything
 - 📣 I speak 2 Languages ( + Learning Spanish ) [🇫🇷] French and [🇺🇸] English
@@ -17,6 +17,20 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<br />
+<br />
+
+### Repositorys: 
+
+## Stink : [repositorystink]
+   Stink is an application develloped by [nefta] and me, more about it on my [website].
+## Covid-Prevention : [repositorycovid]
+   A module that i've created for a project.
+## Pythagore Solver : [repositorypythagore]
+   A solver for Pythagore Problems, project for school.
+## Website : [repositorysite]
+   The code of my Website.
 
 <br />
 <br />
@@ -36,3 +50,8 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[repositorycovid]: https://github.com/Rl242Dev/Covid-Prevention
+[repositorystink]: https://github.com/Rl242Dev/Stink
+[repositorypythagore]: https://github.com/Rl242Dev/PythagoreSolver
+[repositorysite]: https://github.com/Rl242Dev/Rl242.github.io
+[nefta]: https://github.com/Neftaaa
