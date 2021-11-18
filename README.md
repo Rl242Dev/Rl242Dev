@@ -23,13 +23,13 @@
 
 ### Repositorys: 
 
-## Stink : [repositorystink]
+## Stink : [Stink]
    Stink is an application develloped by [nefta] and me, more about it on my [website].
-## Covid-Prevention : [repositorycovid]
+## Covid-Prevention : [Covid]
    A module that i've created for a project.
-## Pythagore Solver : [repositorypythagore]
+## Pythagore Solver : [Pythagore]
    A solver for Pythagore Problems, project for school.
-## Website : [repositorysite]
+## Website : [Site]
    The code of my Website.
 
 <br />
@@ -50,8 +50,8 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[repositorycovid]: https://github.com/Rl242Dev/Covid-Prevention
-[repositorystink]: https://github.com/Rl242Dev/Stink
-[repositorypythagore]: https://github.com/Rl242Dev/PythagoreSolver
-[repositorysite]: https://github.com/Rl242Dev/Rl242.github.io
+[Covid]: https://github.com/Rl242Dev/Covid-Prevention
+[Stink]: https://github.com/Rl242Dev/Stink
+[Pythagore]: https://github.com/Rl242Dev/PythagoreSolver
+[Site]: https://github.com/Rl242Dev/Rl242.github.io
 [nefta]: https://github.com/Neftaaa
