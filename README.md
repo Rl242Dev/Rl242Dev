@@ -23,13 +23,13 @@
 
 ### Repositorys: 
 
-## Stink : [Stink]
+## Stink : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Stink]
    Stink is an application develloped by [nefta] and me, more about it on my [website].
-## Covid-Prevention : [Covid]
+## Covid-Prevention : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Covid]
    A module that i've created for a project.
-## Pythagore Solver : [Pythagore]
+## Pythagore Solver : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Pythagore]
    A solver for Pythagore Problems, project for school.
-## Website : [Site]
+## Website : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Site]
    The code of my Website.
 
 <br />
