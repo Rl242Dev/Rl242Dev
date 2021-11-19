@@ -2,7 +2,7 @@
 
 ## I'm a Student
 
-- 🔭 I just released my [website] which is available in French and English
+- 🔭 I just released my brand new [Website] which is available in French and English
 - 🌱 I’m currently learning Front-End (HTML, CSS, Javascript)
 - 🥅 Goals : Learn more about everything
 - 📣 I speak 2 Languages ( + Learning Spanish ) [🇫🇷] French and [🇺🇸] English
@@ -23,14 +23,30 @@
 
 ### Repositorys: 
 
-## Stink : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Stink]
-   Stink is an application develloped by [nefta] and me, more about it on my [website].
-## Covid-Prevention : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Covid]
+## Stink : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Stink] 💻
+   Stink is an application develloped by [Nefta] and me, more about it on my [Website].
+   
+   Working : ✔
+   
+   Status : Abandoned
+## Covid-Prevention : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Covid] 😷
    A module that i've created for a project.
-## Pythagore Solver : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Pythagore]
+   
+   Working : ✔
+   
+   Status : Finished
+## Pythagore Solver : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Pythagore] 🎓
    A solver for Pythagore Problems, project for school.
-## Website : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Site]
-   The code of my Website.
+   
+   Working : ✔
+   
+   Status : Finished
+## Website : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Site] 🌐
+   The code of my Website. 
+   
+   Working : ✔
+   
+   Status : Working On
 
 <br />
 <br />
@@ -45,7 +61,7 @@
 
 </details>
 
-[website]: https://rl242dev.github.io/Rl242.github.io/
+[Website]: https://rl242dev.github.io/Rl242.github.io/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
@@ -54,4 +70,4 @@
 [Stink]: https://github.com/Rl242Dev/Stink
 [Pythagore]: https://github.com/Rl242Dev/PythagoreSolver
 [Site]: https://github.com/Rl242Dev/Rl242.github.io
-[nefta]: https://github.com/Neftaaa
+[Nefta]: https://github.com/Neftaaa
