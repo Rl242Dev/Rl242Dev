@@ -53,14 +53,14 @@
    Working : ✔
    
    Status : Finished
-## AverageCalculator : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">] [Average] 📊
+## AverageCalculator : <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> 📊
    An Calculator for Averages, project for school.
    
    Working : ✔
    
    Status: Finished
    
-   
+<br />  
 <br />
 
 </details>
