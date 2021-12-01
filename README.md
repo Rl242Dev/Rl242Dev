@@ -53,8 +53,14 @@
    Working : ✔
    
    Status : Finished
+## AverageCalculator : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">] [Average] 📊
+   An Calculator for Averages, project for school.
    
-<br />
+   Working : ✔
+   
+   Status: Finished
+   
+   
 <br />
 
 </details>
@@ -76,5 +82,6 @@
 [Stink]: https://github.com/Rl242Dev/Stink
 [Pythagore]: https://github.com/Rl242Dev/PythagoreSolver
 [LifeMotto]: https://github.com/Rl242Dev/LifeMotto
+[Average]: https://github.com/Rl242Dev/AverageCalculator
 [Site]: https://github.com/Rl242Dev/Rl242.github.io
 [Nefta]: https://github.com/Neftaaa
