@@ -53,25 +53,22 @@
    Working : ✔
    
    Status : Finished
-## AverageCalculator : <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> 📊
+## AverageCalculator : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Average] 📊
    An Calculator for Averages, project for school.
    
    Working : ✔
    
    Status: Finished
-   
-<br />  
-<br />
+
+<br>
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## Github Stats :zap:
 
   [![Rl242Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rl242Dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</details>
 
 [Website]: https://rl242dev.github.io/Rl242.github.io/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
