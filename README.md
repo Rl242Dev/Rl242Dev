@@ -59,6 +59,12 @@
    Working : ✔
    
    Status: Finished
+## Virus : <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> ❌
+   3 Virus inside this Repo.
+   
+   Working : ✔
+   
+   Status : Finished
 
 <br>
 
@@ -80,5 +86,6 @@
 [Pythagore]: https://github.com/Rl242Dev/PythagoreSolver
 [LifeMotto]: https://github.com/Rl242Dev/LifeMotto
 [Average]: https://github.com/Rl242Dev/AverageCalculator
+[Virus]: https://github.com/Rl242Dev/Virus
 [Site]: https://github.com/Rl242Dev/Rl242.github.io
 [Nefta]: https://github.com/Neftaaa
