@@ -59,8 +59,14 @@
    Working : ✔
    
    Status: Finished
-## Virus : <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> ❌
-   3 Virus inside this Repo.
+## Virus : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Average] ❌ 
+   3 Virus inside this repo,
+   
+      - IncognitoMode
+      
+      - ReplicateDosTool
+      
+      - IpGrefferVirus
    
    Working : ✔
    
