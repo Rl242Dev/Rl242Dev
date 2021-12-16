@@ -67,6 +67,8 @@
       - ReplicateDosTool
       
       - IpGrefferVirus
+      
+      - ReplicateVirus
    
    Working : ✔
    
