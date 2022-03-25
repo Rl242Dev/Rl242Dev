@@ -73,6 +73,10 @@
    Working : ✔
    
    Status : Finished
+## IpSelect : [<img align="left"width="26px"src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">] [IpSelector] 📶                  
+Explenation of mysql-python + simple project for showing
+
+Working : ✔
 
 <br>
 
@@ -97,3 +101,4 @@
 [Virus]: https://github.com/Rl242Dev/Virus
 [Site]: https://github.com/Rl242Dev/Rl242.github.io
 [Nefta]: https://github.com/Neftaaa
+[IpSelector]: https://github.com/Rl242Dev/IpSelector
