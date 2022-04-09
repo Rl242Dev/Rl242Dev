@@ -76,7 +76,23 @@
 ## IpSelect : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][IpSelector]📶                  
 Explenation of mysql-python + simple project for showing
 
-Working : ✔
+   Working : ✔
+
+   Status : Finished
+   
+ ## ArmaDashboard : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][ArmaDashBoard]📄
+ A DashBoard for Arma 3 Databases, explained how to use Symfony + MySql
+ 
+   Working : ✔
+ 
+   Status : Finished
+   
+## SqlInsert : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][SqlInsert]📦
+A Python file used to insert data easily in your sql tables.
+
+   Working : ✔
+   
+   Status : Finished
 
 <br>
 
@@ -102,3 +118,5 @@ Working : ✔
 [Site]: https://github.com/Rl242Dev/Rl242.github.io
 [Nefta]: https://github.com/Neftaaa
 [IpSelector]: https://github.com/Rl242Dev/IpSelector
+[ArmaDashBoard]: https://github.com/Rl242Dev/ArmaDashboard
+[SqlInsert]: https://github.com/Rl242Dev/SqlInsert
