@@ -1,12 +1,5 @@
 ### Hello There, I'm Robin aka Rl242Dev 👋 
 
-## I'm a Student
-
-- 🔭 I just released my brand new [Website] which is available in French and English
-- 🌱 I’m currently learning Front-End (HTML, CSS, Javascript)
-- 🥅 Goals : Learn more about everything
-- 📣 I speak 2 Languages ( + Learning Spanish ) [🇫🇷] French and [🇺🇸] English
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
