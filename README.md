@@ -108,7 +108,7 @@ Started these commit rules : 07/07/22
 
 ## Github Stats :zap:
 
-  [![Rl242Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rl242Dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Rl242Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rl242Dev&count_private=true&show_icons=true?theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
