@@ -94,6 +94,12 @@ A Python file used to insert data easily in your sql tables.
    
    Status : Finished
    
+## InfoPinger : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][InfoPinger]🔍
+
+   Working : ✔
+   
+   Status : Finished
+   
 </details>
 
 ## How I Commit : 📋
@@ -124,3 +130,4 @@ Started these commit rules : 07/07/22
 [IpSelector]: https://github.com/Rl242Dev/IpSelector
 [ArmaDashBoard]: https://github.com/Rl242Dev/ArmaDashboard
 [SqlInsert]: https://github.com/Rl242Dev/SqlInsert
+[InfoPinger]: https://github.com/Rl242Dev/InfoPinger
