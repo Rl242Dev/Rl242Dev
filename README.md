@@ -13,13 +13,13 @@
 
 <br />
 
-### Selling 💵: 
+### Currently Selling 💵: 
 
     https://sellcodes.com/Rl242Dev
 
 An Instagram Bot + A Website 💻
 
-### Repositorys: 
+### Repositories: 
 
 <details>
 
@@ -54,13 +54,13 @@ An Instagram Bot + A Website 💻
    
    Status : Finished
 ## AverageCalculator : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Virus] 📊
-   An Calculator for Averages, project for school.
+   A Calculator for Averages, project for school.
    
    Working : ✔
    
    Status: Finished
 ## Virus : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][Virus] ❌ 
-   Virus that i've created,
+   Viruses that i've created,
    
       - IncognitoMode
       
@@ -74,14 +74,14 @@ An Instagram Bot + A Website 💻
    
    Status : Finished
 ## IpSelect : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][IpSelector]📶                  
-Explenation of mysql-python + simple project for showing
+Explanation of mysql-python + simple project for showing
 
    Working : ✔
 
    Status : Finished
    
  ## ArmaDashboard : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][ArmaDashBoard]📄
- A DashBoard for Arma 3 Databases, explained how to use Symfony + MySql
+ A DashBoard for Arma 3 Databases, explaining how to use Symfony + MySql
  
    Working : ✔
  
