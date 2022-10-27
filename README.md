@@ -108,11 +108,11 @@ A Python file used to insert data easily in your sql tables.
     
 ## SignUpPageSystem : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][SignUpPageSystem]📡
     
-    A PHP and MySQL Page to sign up, including SQL Injection prevention
+   A PHP and MySQL Page to sign up, including SQL Injection prevention
     
-    Working : ✔
+   Working : ✔
    
-    Status : Finished
+   Status : Finished
    
 </details>
 
