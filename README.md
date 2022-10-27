@@ -105,6 +105,14 @@ A Python file used to insert data easily in your sql tables.
    Working : ✔
    
    Status : Finished
+    
+## SignUpPageSystem : [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][SignUpPageSystem]📡
+    
+    A PHP and MySQL Page to sign up, including SQL Injection prevention
+    
+    Working : ✔
+   
+    Status : Finished
    
 </details>
 
@@ -137,3 +145,4 @@ Started these commit rules : 07/07/22
 [ArmaDashBoard]: https://github.com/Rl242Dev/ArmaDashboard
 [SqlInsert]: https://github.com/Rl242Dev/SqlInsert
 [InfoPinger]: https://github.com/Rl242Dev/InfoPinger
+[SignUpPageSystem]: https://github.com/Rl242Dev/SignUpPageSystem
