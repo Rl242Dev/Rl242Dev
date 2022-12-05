@@ -129,6 +129,18 @@ Started these commit rules : 07/07/22
 ## Github Stats :zap:
 
   ![Rl242Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rl242Dev&count_private=true&show_icons=true&theme=gotham&hide_border=true)
+  
+  
+  
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rl242Dev&langs_count=6&theme=gotham&count_private=true&hide_border=true)
+  
+  
+  
+  
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->
 
 
 
