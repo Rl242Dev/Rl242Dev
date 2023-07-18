@@ -121,11 +121,13 @@ A Python file used to insert data easily in your sql tables.
 
 ## How I Commit : 📋
 
-   - [UPDATE] Meaning I updated something in the Code
+   - [UPDATE] Meaning I added a feature in the Code
 
    - [DOC] Meaning I updated something in the Documentation
 
    - [README] Meaning I updated something in the ReadMe
+
+   - [FIX] Meaning I fixed an issue in the code, with or without an opened Issue on Github
 
 Started these commit rules : 07/07/22
 
